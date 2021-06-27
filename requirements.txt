@@ -1,0 +1,11 @@
+cbor2
+zlib
+base45
+cose
+json
+requests
+jsonschema
+pyzbar
+cv2
+argparse
+os
