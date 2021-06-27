@@ -4,6 +4,7 @@ This python script let you decode a Digital Green Certificate.
 
 - [eHealth Specifications](https://ec.europa.eu/health/ehealth/covid-19_en)
 - [EU GitHub](https://github.com/eu-digital-green-certificates/dgc-overview)
+- [JSON specification](https://ec.europa.eu/health/sites/default/files/ehealth/docs/covid-certificate_json_specification_en.pdf)
 
 ## Usage
 
